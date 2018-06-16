@@ -1,0 +1,26 @@
+[  
+    {  
+        "id":"1",
+        "name":"OYO",
+        "city":"Berlin",
+        
+    },
+    {  
+        "id":"2",
+        "name":"MMT",
+        "city":"Oslo",
+        
+    },
+    {  
+        "id":"3",
+        "name":"GOIBIBO",
+        "city":"Musoorie",
+        
+    },
+    {  
+        "id":"4",
+        "name":"TREEBO",
+        "city":"Manali",
+
+    }
+]
